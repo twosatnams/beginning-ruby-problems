@@ -16,6 +16,14 @@
 - [x] [Exponentiation](lib/exponentiation.rb) - Implement exponentiation using multiplication and recursion only.
 - [x] [Deep Dup](lib/deep_dup.rb) - Using recursion and the is_a? method, write an Array#deep_dup method that will perform a "deep" duplication of the interior arrays.
 - [x] [Pair Sum](lib/pair_sum.rb) - Given an array of integers, return all pairs that sum up to a specified value k. List the pairs in [min, max] order.
+- [x] [Silly Years](lib/silly_years.rb) - Write a function that takes a year (four digit integer) and returns an
+array with the 10 closest subsequent years that meet the following
+condition: the first two digits summed with the last two digits are
+equal to the middle two digits. E.g.,
+
+    1978 => 19 + 78 = 97
+    2307 => 23 + 07 = 30
+
 
 ## Trees
 
