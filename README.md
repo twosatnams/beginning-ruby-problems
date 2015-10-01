@@ -24,6 +24,8 @@ equal to the middle two digits. E.g.,
     1978 => 19 + 78 = 97
     2307 => 23 + 07 = 30
 
+- [x] [Largest Contiguous Subsum](lib/largest_contiguous_subsum.rb) - Given an array of integers (positive and negative) find the
+                                                                      largest contiguous subsum (sum of a subarray). Do this is O(n) time and O(1) space
 
 ## Trees
 
