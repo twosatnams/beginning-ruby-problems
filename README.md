@@ -8,24 +8,31 @@
 ## Arrays and Strings
 
 - [x] [Permutations](lib/permutations.rb) - Given a string, return all of its permutations. Use recursion.
+
 - [x] [Unique Substring](lib/uniq_subs.rb) - Write a method that finds all the unique substrings for a word
+
 - [x] [Subsets](lib/subsets.rb) - Given am array, return all of it's subsets. Use recursion
+
 - [x] [Binary Search](lib/binary_search.rb) - Given a sorted array and an integer, find the index of the integer inside the array. Do this without traversing the entire array
+
 - [x] [Make Change](lib/make_change.rb) - Given an amount and an array of coins. How can a given amount of money be made with the least number of coins of given denominations?
+
 - [x] [Fibonacci](lib/fibonacci.rb) - Return first n numbers in the fibonacci sequence. Both Iteratively and Recursively
+
 - [x] [Exponentiation](lib/exponentiation.rb) - Implement exponentiation using multiplication and recursion only.
+
 - [x] [Deep Dup](lib/deep_dup.rb) - Using recursion and the is_a? method, write an Array#deep_dup method that will perform a "deep" duplication of the interior arrays.
+
 - [x] [Pair Sum](lib/pair_sum.rb) - Given an array of integers, return all pairs that sum up to a specified value k. List the pairs in [min, max] order.
+
 - [x] [Silly Years](lib/silly_years.rb) - Write a function that takes a year (four digit integer) and returns an
 array with the 10 closest subsequent years that meet the following
 condition: the first two digits summed with the last two digits are
-equal to the middle two digits. E.g.,
+equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 
-    1978 => 19 + 78 = 97
-    2307 => 23 + 07 = 30
+- [x] [Largest Contiguous Subsum](lib/largest_contiguous_subsum.rb) - Given an array of integers (positive and negative) find the largest contiguous subsum (sum of a subarray). Do this is O(n) time and O(1) space
 
-- [x] [Largest Contiguous Subsum](lib/largest_contiguous_subsum.rb) - Given an array of integers (positive and negative) find the
-                                                                      largest contiguous subsum (sum of a subarray). Do this is O(n) time and O(1) space
+- [x] [Digital Root](lib/digital_root.rb) - Write a method, digital_root(num). It should sum the digits of a positive integer. If it is greater than or equal to 10, sum the digits of the resulting number. Keep repeating until there is only one digit in the result, called the "digital root". Do not use string conversion within your method.
 
 ## Trees
 
