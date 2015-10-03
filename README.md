@@ -34,6 +34,8 @@ equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 
 - [x] [Digital Root](lib/digital_root.rb) - Write a method, digital_root(num). It should sum the digits of a positive integer. If it is greater than or equal to 10, sum the digits of the resulting number. Keep repeating until there is only one digit in the result, called the "digital root". Do not use string conversion within your method.
 
+- [x] [Longest Common Substring](lib/longest_common_substring.rb) - Write a function, common_substrings(str1, str2) that takes two strings and returns the longest common substring.
+
 ## Trees
 
 - [x] [Knight's Travails](lib/knight_path_finder.rb) - Write a class that will find a path for a Chess Knight from a starting position to an end position
