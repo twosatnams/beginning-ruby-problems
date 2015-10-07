@@ -36,9 +36,10 @@ equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 
 - [x] [Longest Common Substring](lib/longest_common_substring.rb) - Write a function, common_substrings(str1, str2) that takes two strings and returns the longest common substring.
 
-## Trees
+## Trees and Graphs
 
 - [x] [Knight's Travails](lib/knight_path_finder.rb) - Write a class that will find a path for a Chess Knight from a starting position to an end position
+
 - [x] [Word Chains](lib/word_chainer.rb) - Given two words of equal length, build a chain of words connecting the first to the second. Each word in the chain must be in the dictionary and every step along the chain changes exactly one letter from the previous word.
 
 ## Sorting Algorithms
