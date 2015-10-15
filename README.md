@@ -44,7 +44,9 @@ equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 
 ## Sorting Algorithms
 
-- [x] [Merge Sort](lib/merge_sort.rb) - Sort an array in nLogn time, where n is the length of the array. Use recursion
+- [x] [Merge Sort](lib/merge_sort.rb)
+
+- [x] [Quick Sort](lib/quicksort.rb)
 
 ## To Do
 
