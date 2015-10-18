@@ -42,6 +42,8 @@ equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 
 - [x] [Word Chains](lib/word_chainer.rb) - Given two words of equal length, build a chain of words connecting the first to the second. Each word in the chain must be in the dictionary and every step along the chain changes exactly one letter from the previous word.
 
+- [x] [Even Tree](lib/even_tree.rb) - You are given a tree (a simple connected graph with no cycles). You have to remove as many edges from the tree as possible to obtain a forest with the condition that : Each connected component of the forest should contain an even number of vertices.
+
 ## Sorting Algorithms
 
 - [x] [Merge Sort](lib/merge_sort.rb)
