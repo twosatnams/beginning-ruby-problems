@@ -39,6 +39,10 @@ equal to the middle two digits. E.g. 1978 => 19 + 78 = 97
 - [x] [Maximum Profit with 2 transactions](lib/maximum_profit.rb) - In a daily share trading, a buyer buys shares in the morning and sells it on same day. If the trader is allowed to make at most 2 transactions in a day,
 where as second transaction can only start after first one is complete. Given stock prices throughout day, find out maximum profit that a share trader could have made.
 
+- [x] [Product of Previous and Next](lib/product_prev_next.rb) - Given an array of integers, update every element with multiplication of previous and next elements with following exceptions.
+    - a) First element is replaced by multiplication of first and second.
+    - b) Last element is replaced by multiplication of last and second last.
+
 ## Trees and Graphs
 
 - [x] [Knight's Travails](lib/knight_path_finder.rb) - Write a class that will find a path for a Chess Knight from a starting position to an end position
