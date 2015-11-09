@@ -43,6 +43,8 @@ where as second transaction can only start after first one is complete. Given st
     - a) First element is replaced by multiplication of first and second.
     - b) Last element is replaced by multiplication of last and second last.
 
+- [x] [Caesar Cipher](lib/caesar_ciphar.rb) - Write a function that takes a message and an increment amount and outputs the same letters shifted by that amount in the alphabet.
+
 ## Trees and Graphs
 
 - [x] [Knight's Travails](lib/knight_path_finder.rb) - Write a class that will find a path for a Chess Knight from a starting position to an end position
